@@ -1,0 +1,6 @@
+id,employee_id,amount,order_status,full_order_status
+1,e03,15.00,OPEN,"Order is in open state"
+2,e01,25.50,OPEN,"Order is in open state"
+3,e05,100.70,CLOSED,"Order is closed"
+4,e02,22.18,OPEN,"Order is in open state"
+5,e04,9.50,CANCELLED,"Order is cancelled"
